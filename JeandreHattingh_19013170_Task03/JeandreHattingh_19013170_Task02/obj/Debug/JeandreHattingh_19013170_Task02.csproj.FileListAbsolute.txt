@@ -1,0 +1,10 @@
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\bin\Debug\JeandreHattingh_19013170_Task02.exe.config
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\bin\Debug\JeandreHattingh_19013170_Task02.exe
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\bin\Debug\JeandreHattingh_19013170_Task02.pdb
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\obj\Debug\JeandreHattingh_19013170_Task02.csprojAssemblyReference.cache
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\obj\Debug\JeandreHattingh_19013170_Task02.frmBattleSim.resources
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\obj\Debug\JeandreHattingh_19013170_Task02.Properties.Resources.resources
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\obj\Debug\JeandreHattingh_19013170_Task02.csproj.GenerateResource.cache
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\obj\Debug\JeandreHattingh_19013170_Task02.csproj.CoreCompileInputs.cache
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\obj\Debug\JeandreHattingh_19013170_Task02.exe
+C:\Users\Jeandre\Documents\0_Vega\GADE\Semester 2\Projects\New Proj\JeandreHattingh_19013170_Task02\JeandreHattingh_19013170_Task02\obj\Debug\JeandreHattingh_19013170_Task02.pdb
